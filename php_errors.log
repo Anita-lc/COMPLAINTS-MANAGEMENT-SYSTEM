@@ -1,0 +1,24 @@
+[25-Jul-2025 12:56:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:57
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 57
+[25-Jul-2025 12:56:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:57
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 57
+[25-Jul-2025 13:00:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:57
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 57
+[25-Jul-2025 13:02:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:57
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 57
+[25-Jul-2025 13:05:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:60
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 60
+[25-Jul-2025 13:14:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php:70
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Admin\OneDrive\Desktop\COMPLAINTS MANAGEMENT SYSTEM\register.php on line 70
